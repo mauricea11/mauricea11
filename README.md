@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maurice August
 ======================================================================================================================================
 
-I'm a Computer Science student and hobbyist back-end dev. I have been programming for 2 years now, focusing primarily on backend development using Java. Halfway into this journey, I picked up a love for creating beautiful websites using CSS, HTML, and JavaScript. Since then I've grown a lot in this space, having worked on my own personal projects and creating a few others for companies during my internships. This is my last semester of school, so I'm eager to see what the future holds for me next in front-end development!
+I'm a Computer Science student and hobbyist back-end dev. I have been programming for 2 years now, focusing primarily on backend development using Java. Halfway into this journey, I picked up a love for creating beautiful websites using CSS, HTML, and JavaScript. Since then I've grown a lot in this space, having worked on my own personal projects and creating a few others for companies during my internships. This is my last semester of school, so I'm eager to see what the future holds for me next in back-end development!
 
 * 🌍  I'm based in Philadelphia
 * ✉️  You can contact me at [mauriceaugust@outlook.com](mailto:mauriceaugust@outlook.com)
