@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Philadelphia
 * ✉️  You can contact me at [mauriceaugust@outlook.com](mailto:mauriceaugust@outlook.com)
-* 🧠  I'm learning data science
+* 🧠  I'm learning data science and neural networks
 * ⚡  I also stream on Twitch ...but it's still a work in progress
 
 ### Skills
