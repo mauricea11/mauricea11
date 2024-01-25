@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maurice August
 ======================================================================================================================================
 
-* 🌍  I'm based in New York and Philadelphia 
+* 🌍  I'm based in NYC and Philadelphia 
 * ✉️  You can contact me at [mauriceaugust@outlook.com](mailto:mauriceaugust@outlook.com)
 * 🧠  I'm learning data science and neural networks
 * ⚡  I also stream on Twitch ...but it's still a work in progress
